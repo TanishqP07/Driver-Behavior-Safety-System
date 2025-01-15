@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 # 📫 Contact
 
-For any questions, suggestions, or collaboration, feel free to reach out:
+For any questions, suggestions, or a collaboration, feel free to reach out:
 - **Email**: [tanishq.m.pawar@gmail.com](mailto:tanishq.m.pawar@gmail.com)
 - **GitHub**: [TanishqP07](https://github.com/TanishqP07)
 
